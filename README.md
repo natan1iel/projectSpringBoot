@@ -4,7 +4,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-4.0.0-blue?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
 
 > Projeto desenvolvido durante um **minicurso da Rocketseat**, com o objetivo de criar uma **API REST para gerenciamento de tarefas (To-Do List)** utilizando **Java e Spring Boot**.
 
@@ -31,6 +30,7 @@
 ---
 
 ## 📁 Estrutura do projeto
+```plaintext
 src/
  ├─ main/java/br/com/nataniel/todolist
  │   ├─ user/        → Controle e persistência de usuários
