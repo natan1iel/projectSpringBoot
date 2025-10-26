@@ -69,13 +69,13 @@ docker run -p 8080:8080 todolist-api
 
 ---
 
-##📚 Origem
+## 📚 Origem
 
 Este projeto foi desenvolvido durante um minicurso da Rocketseat, com o intuito de praticar conceitos fundamentais de APIs REST com Spring Boot, autenticação, e boas práticas de organização de código.
 
 ---
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 Nataniel Oliveira
 📧 Contato: onataniel@ymail.com
 🌐 GitHub: https://github.com/natan1iel
