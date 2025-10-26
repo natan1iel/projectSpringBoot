@@ -41,6 +41,7 @@ src/
  │   └─ TodolistApplication.java
  └─ resources/
      └─ application.properties
+``` 
 
 ---
 
