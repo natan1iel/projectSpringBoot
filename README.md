@@ -32,16 +32,15 @@
 
 ## 📁 Estrutura do projeto
 src/
-├─ main/java/br/com/nataniel/todolist
-│ ├─ user/ → Controle e persistência de usuários
-│ ├─ task/ → CRUD de tarefas
-│ ├─ filter/ → Filtros de autenticação
-│ ├─ errors/ → Manipulação de exceções
-│ ├─ utils/ → Funções auxiliares
-│ └─ TodolistApplication.java
-└─ resources/
-└─ application.properties
-
+ ├─ main/java/br/com/nataniel/todolist
+ │   ├─ user/        → Controle e persistência de usuários
+ │   ├─ task/        → CRUD de tarefas
+ │   ├─ filter/      → Filtros de autenticação
+ │   ├─ errors/      → Manipulação de exceções
+ │   ├─ utils/       → Funções auxiliares
+ │   └─ TodolistApplication.java
+ └─ resources/
+     └─ application.properties
 
 ---
 
